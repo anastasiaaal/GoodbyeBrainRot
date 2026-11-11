@@ -20,9 +20,9 @@ good now
 
 Installing:
 1) download Userscript in app store, set directory of "On My iPhone/Userscript"
-2)Save ByebyeBrainrot.js into that folder from the Files app (long-press the file → Move).
-3)In Safari, go to instagram.com, tap the puzzle-piece icon (or AA), tap Userscripts, and choose Always Allow on This Website.
-4)Reload the page and look for the green “Focus on” badge.
+2) Save ByebyeBrainrot.js into that folder from the Files app (long-press the file → Move).
+3) In Safari, go to instagram.com, tap the puzzle-piece icon (or AA), tap Userscripts, and choose Always Allow on This Website.
+4) Reload the page and look for the green “Focus on” badge.
 
 Optional: add instagram.com to the Home Screen (Share → Add to Home Screen, with Open as Web App off) and delete the Instagram app.
 
