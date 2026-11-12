@@ -5,6 +5,7 @@ A super simple script that eliminates reels from the instagram interface, maybe 
 Functionalities current version:
 
 
+ByebyeBrainrot.js
 For now:
 - Hides reels button and reels that show up in feed (most of the time you still get a few but not nearly enough)
 - No explore (can still look up stuff but nothing is thrown at ya)
@@ -15,6 +16,10 @@ For now:
 - little focus badge shows if it running, will probably remove when I feel like it
 -all this could stop working if instagram c hanges, i will prolly fix it maybe
 
+Simple_works.user.js & original.users.js
+Basically the same thing:
+- simpler hence bettter experience with the interface not imers so technically u can cheat the system by refreshing ever so often but it's a painb in the ass and clearly not worth it also turned off focus badge because annoying
+- still buggy but I am on a train so maybe it is a factor
 
 good now
 
